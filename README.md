@@ -1,16 +1,13 @@
-### Hi there 👋
+HEADER
 
-<!--
-**Andrey032/andrey032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! I'm a beginner Frontend developer
 
-Here are some ideas to get you started:
+LATEST YOUTUBE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LANGUAGES AND TOOLS
+![JavaScript](https://img.shields.io/badge/JavaScript-you_like)
+
+
+
+
+FALLOW ME
