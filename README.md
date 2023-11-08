@@ -28,7 +28,7 @@ LANGUAGES:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="nginx " alt="nginx " width="40" height="40"/>&nbsp;
+	<img src="https://github.com/Andrey032/andrey032/blob/main/assets/icons/nginx.svg" title="nginx " alt="nginx " width="40" height="40"/>&nbsp;
 </div>
 
 
@@ -37,7 +37,7 @@ LANGUAGES:
  TOOLS:
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/Andrey032/andrey032/blob/main/assets/icons/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 ---
 
