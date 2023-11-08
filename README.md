@@ -2,7 +2,7 @@
 
 ## Привет! Я начинающий FrontEnd разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-<img src="https://github.com/Andrey032/andrey032/blob/main/assets/giphy.gif" title="gif" alt="gif" width="400" height="40"/>&nbsp;
+<img src="https://github.com/Andrey032/andrey032/blob/main/assets/giphy.gif" title="gif" alt="gif" width="800" height="200"/>&nbsp;
 
 
 СONTACT ME:
