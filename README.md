@@ -1,9 +1,6 @@
 [![Header](https://github.com/Andrey032/andrey032/blob/main/assets/Frame%202.svg)](https://t.me/Sansay89)
 
-## Привет! Я начинающий FrontEnd разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
-<!-- <img src="https://github.com/Andrey032/andrey032/blob/main/assets/giphy.gif" title="gif" alt="gif" width="900" height="250"/>&nbsp; -->
-
+## Привет! Я начинающий FrontEnd разработчик
 
 СONTACT ME:
 
@@ -12,7 +9,9 @@
 
 ---
 
-ABOUT ME:
+ABOUT ME: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
+
+#### Начал свой путь в IT с обучения в Яндекс практикуме. Мне нравиться создавать что-то новое. Веб-разработка привлекает меня почти неограниченными возможностями. Нравится видеть моментальный результат своей работы. 
 
 ---
 
