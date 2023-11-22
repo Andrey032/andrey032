@@ -40,6 +40,10 @@ LANGUAGES:
 
 ---
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Andrey032" alt="Andrey032" /></p>
+
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Andrey032/badges/large)
@@ -53,3 +57,5 @@ LANGUAGES:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey032&show_icons=true&theme=transparent)
 
 ---
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey032&show_icons=true&locale=en&layout=compact" alt="Andrey032" /></p>
