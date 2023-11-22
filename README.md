@@ -50,7 +50,7 @@ LANGUAGES:
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Andrey032)
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey032&show_icons=true&locale=en&layout=compact" alt="Andrey032" /></p>
 
 ---
 
@@ -58,4 +58,6 @@ LANGUAGES:
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey032&show_icons=true&locale=en&layout=compact" alt="Andrey032" /></p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Andrey032)
+
+---
